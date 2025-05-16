@@ -1,6 +1,9 @@
-h1{
+h5{
     color: blueviolet;
 };
-p{
+button{
     background-color: dimgray;
+};
+input{
+    text-align: center;
 }
